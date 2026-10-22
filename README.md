@@ -8,7 +8,7 @@ Notes from the Google Cybersecurity Professional Certificate, organized by cours
 - [x] Course 2: Play It Safe — Manage Security Risks
 - [x] Course 3: Connect and Protect — Networks and Network Security
 - [x] Course 4: Tools of the Trade — Linux and SQL
-- [ ] Course 5: Assets, Threats, and Vulnerabilities
+- [X] Course 5: Assets, Threats, and Vulnerabilities
 - [ ] Course 6: Sound the Alarm — Detection and Response
 - [ ] Course 7: Automate Cybersecurity Tasks with Python
 - [ ] Course 8: Put It to Work — Prepare for Cybersecurity Jobs
