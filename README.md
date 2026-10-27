@@ -2,7 +2,7 @@
 
 Notes from the Google Cybersecurity Professional Certificate, organized by course and module.
 
-## Progress: 4/8 courses complete
+## Progress: 5/8 courses complete
 
 - [x] Course 1: Foundations of Cybersecurity
 - [x] Course 2: Play It Safe — Manage Security Risks
