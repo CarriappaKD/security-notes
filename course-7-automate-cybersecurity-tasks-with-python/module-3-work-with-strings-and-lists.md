@@ -161,6 +161,12 @@ print(numbers_list)
 # → [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 ```
 
+## Algorithm Fundamentals
+
+An **algorithm** is a structured set of rules or steps that takes an input, performs specific tasks on it, and produces an output to solve a problem.
+
+Designing one gets easier when you **break a complex task into smaller, simpler pieces** — for example, working out the logic for a single item first, then extending it to process a whole collection of items.
+
 ## Regular Expressions (Regex)
 
 A **regular expression (regex)** is a character sequence that defines a search pattern — used in Python to efficiently find structured data like IP addresses, email addresses, or device IDs inside larger strings. Regex functionality lives in the `re` module, so it needs importing first: `import re`.
